@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jay\\AndroidStudioProjects\\Nutrilicious\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jay\\.gradle\\wrapper\\dists\\gradle-5.4.1-all\\3221gyojl5jsh0helicew7rwx\\gradle-5.4.1\\caches\\transforms-2\\files-2.1\\d8ca8a0ce13166b9ca2523486788e78a\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jay\\.gradle\\wrapper\\dists\\gradle-5.4.1-all\\3221gyojl5jsh0helicew7rwx\\gradle-5.4.1\\caches\\transforms-2\\files-2.1\\b9d662e3a23f792036792afb351b58e7\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

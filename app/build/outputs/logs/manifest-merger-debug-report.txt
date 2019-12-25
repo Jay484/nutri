@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\6d5b133b6ae6925089f08ea95c28bdac\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\c1a1d6df814182249280568a4b3a8ef9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b9d662e3a23f792036792afb351b58e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\a9c3586f3a0433a51fc515bd9c6f0d9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\08ecdb4a2f3b3b5778683b05579f5e99\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\5bd7d3d73b5e2cfaf222e420e67e3d69\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\17bcb1368cb7f93e7e5093bfdeca7772\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\1622219b7d5eacb57fdb30bc8b8ba66e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ed78b4b1f8b97bbe09dc5dd58f63ee6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\5ca678e885b9da754a336a2649faef60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\0b1c8a5177b7949b0daaa38d68ff2a0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\911db05aba514a2180817c13853c82b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\143b18c67f289c8cde292b7a966b9911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\cb9f58a7d461247b649b2c2f71e5eeca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ccafcfba27bf94705268090a1ce3258e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\cd149978ced162df35251dc4bab8e57d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\a97abbd44bd1ff62551a6f25f511ee6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\522cad83b7e63ef9a5d8a92f2103cc82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\92257e89af6bd5c56b0d7f6b08d528f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\d8ca8a0ce13166b9ca2523486788e78a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\82d282a3c5d2be2f941fe802cbc333a1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\216827ff8821000c1524365514694458\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\654cfe4021eb9dd22c7ba3f86ec6543e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b5a86bd8afe6d9b6d043c2a4bd0f660f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b015066300405a55e327e69655792277\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\aa74859a8df68f28fbbc03bd11155d45\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\3b9426db5143b80b30326c37d623bdbb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\800b7cbda4102376282b75674816a514\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\335fcedc4b132744b445017e38fd829a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\af8db73cdf7c582c248499d2b310aba7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\65bd0cc87dc338cf05003c5cd947f489\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\47cb0884a0c31b335b00425349cef622\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\0dad75edbc89dfd136859947b3e49b94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\282b265ffa9cf43aabad8839baaf83d4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\6d5b133b6ae6925089f08ea95c28bdac\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\6d5b133b6ae6925089f08ea95c28bdac\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\c1a1d6df814182249280568a4b3a8ef9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\c1a1d6df814182249280568a4b3a8ef9\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\d8ca8a0ce13166b9ca2523486788e78a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\d8ca8a0ce13166b9ca2523486788e78a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\82d282a3c5d2be2f941fe802cbc333a1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\82d282a3c5d2be2f941fe802cbc333a1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\d8ca8a0ce13166b9ca2523486788e78a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.nutrilicious.view.main.MainActivity
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:14:9-30:20
+	android:label
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:16:13-45
+	android:launchMode
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:15:13-51
+meta-data#android.app.searchable
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:18:13-20:54
+	android:resource
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:20:17-51
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:19:17-54
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:22:13-24:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:23:17-71
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:23:25-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.nutrilicious.view.details.DetailsActivity
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:31:9-36:20
+	android:parentActivityName
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:31:19-63
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:33:13-35:59
+	android:value
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:35:17-56
+	android:name
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml:34:17-63
+uses-sdk
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\6d5b133b6ae6925089f08ea95c28bdac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\6d5b133b6ae6925089f08ea95c28bdac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\c1a1d6df814182249280568a4b3a8ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\c1a1d6df814182249280568a4b3a8ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b9d662e3a23f792036792afb351b58e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b9d662e3a23f792036792afb351b58e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\a9c3586f3a0433a51fc515bd9c6f0d9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\a9c3586f3a0433a51fc515bd9c6f0d9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\08ecdb4a2f3b3b5778683b05579f5e99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\08ecdb4a2f3b3b5778683b05579f5e99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\5bd7d3d73b5e2cfaf222e420e67e3d69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\5bd7d3d73b5e2cfaf222e420e67e3d69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\17bcb1368cb7f93e7e5093bfdeca7772\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\17bcb1368cb7f93e7e5093bfdeca7772\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\1622219b7d5eacb57fdb30bc8b8ba66e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\1622219b7d5eacb57fdb30bc8b8ba66e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ed78b4b1f8b97bbe09dc5dd58f63ee6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ed78b4b1f8b97bbe09dc5dd58f63ee6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\5ca678e885b9da754a336a2649faef60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\5ca678e885b9da754a336a2649faef60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\0b1c8a5177b7949b0daaa38d68ff2a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\0b1c8a5177b7949b0daaa38d68ff2a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\911db05aba514a2180817c13853c82b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\911db05aba514a2180817c13853c82b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\143b18c67f289c8cde292b7a966b9911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\143b18c67f289c8cde292b7a966b9911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\cb9f58a7d461247b649b2c2f71e5eeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\cb9f58a7d461247b649b2c2f71e5eeca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ccafcfba27bf94705268090a1ce3258e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ccafcfba27bf94705268090a1ce3258e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\cd149978ced162df35251dc4bab8e57d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\cd149978ced162df35251dc4bab8e57d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\a97abbd44bd1ff62551a6f25f511ee6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\a97abbd44bd1ff62551a6f25f511ee6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\522cad83b7e63ef9a5d8a92f2103cc82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\522cad83b7e63ef9a5d8a92f2103cc82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\92257e89af6bd5c56b0d7f6b08d528f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\92257e89af6bd5c56b0d7f6b08d528f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\d8ca8a0ce13166b9ca2523486788e78a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\d8ca8a0ce13166b9ca2523486788e78a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\82d282a3c5d2be2f941fe802cbc333a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\82d282a3c5d2be2f941fe802cbc333a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\216827ff8821000c1524365514694458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\216827ff8821000c1524365514694458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\654cfe4021eb9dd22c7ba3f86ec6543e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\654cfe4021eb9dd22c7ba3f86ec6543e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b5a86bd8afe6d9b6d043c2a4bd0f660f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b5a86bd8afe6d9b6d043c2a4bd0f660f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b015066300405a55e327e69655792277\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\b015066300405a55e327e69655792277\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\aa74859a8df68f28fbbc03bd11155d45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\aa74859a8df68f28fbbc03bd11155d45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\3b9426db5143b80b30326c37d623bdbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\3b9426db5143b80b30326c37d623bdbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\800b7cbda4102376282b75674816a514\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\800b7cbda4102376282b75674816a514\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\335fcedc4b132744b445017e38fd829a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\335fcedc4b132744b445017e38fd829a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\af8db73cdf7c582c248499d2b310aba7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\af8db73cdf7c582c248499d2b310aba7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\65bd0cc87dc338cf05003c5cd947f489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\65bd0cc87dc338cf05003c5cd947f489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\47cb0884a0c31b335b00425349cef622\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\47cb0884a0c31b335b00425349cef622\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\0dad75edbc89dfd136859947b3e49b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\0dad75edbc89dfd136859947b3e49b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\282b265ffa9cf43aabad8839baaf83d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\282b265ffa9cf43aabad8839baaf83d4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jay\AndroidStudioProjects\Nutrilicious\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\jay\.gradle\wrapper\dists\gradle-5.4.1-all\3221gyojl5jsh0helicew7rwx\gradle-5.4.1\caches\transforms-2\files-2.1\ef29b6f256474e0ca6e8271e7cae0d32\AndroidManifest.xml:24:13-83
